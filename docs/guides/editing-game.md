@@ -118,7 +118,7 @@ import quest from './scripts/quest.narrat';
 export default [demo, quest];
 ```
 
-Narrat scripts are in a custom language nade for narrat, see the [language syntax guide](../scripting/language-syntax.md) page for more info.
+Narrat scripts are in a custom language made for narrat, see the [language syntax guide](../scripting/language-syntax.md) page for more info.
 
 ::: tip
 We advise using [Visual Studio Code](https://code.visualstudio.com) for editing narrat scripts. There is a [Narrat Language VS Code extension](https://marketplace.visualstudio.com/items?itemName=NarratEngine.language-narrat) which will give you great syntax highlighting.
